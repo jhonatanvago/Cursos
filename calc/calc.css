@@ -1,0 +1,32 @@
+
+.Calculadora{
+	margin: 40px;
+	width: 300px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+input{
+	width: 280px;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+button{
+	width: 60px;
+	height: 60px;
+	margin: 5px;
+	display: inline-block;
+}
+
+.botoes{
+	display: block;
+}
+
+#zero{
+	width: 134px;
+}
+
+#igual{
+	width: 282px;
+}
